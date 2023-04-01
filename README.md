@@ -22,7 +22,7 @@ This website includes the following features and components:
 
 ## Credits
 
-This website was created by BIROUE ISAAC using the following tools and resources:
+This website was created by <strong>BIROUE ISAAC<strong> using the following tools and resources:
 
 - Bootstrap 5
 - Font Awesome icons
